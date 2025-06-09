@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca32356e-d4ff-4525-bc15-6e29e027b76a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/res/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/res/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/res/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/res/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/res/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/res" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2xpXdpGopMlolptzy9LuEy3N9lq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/Lab17-20_Bondarkov",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20\res\src\media\pics" />
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20\res\src\styles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20_Bondarkov\res\src\media\pics" />
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20_Bondarkov\res\public" />
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20\res\public" />
+      <recent name="C:\Users\Дарья\IdeaProjects\Lab17-20\res\src\media\pics" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca32356e-d4ff-4525-bc15-6e29e027b76a" name="Changes" comment="" />
+      <created>1748636079538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748636079538</updated>
+      <workItem from="1748636080422" duration="1419000" />
+      <workItem from="1748643247983" duration="15749000" />
+      <workItem from="1748707536474" duration="6000" />
+      <workItem from="1748707770318" duration="1740000" />
+      <workItem from="1748793481892" duration="865000" />
+      <workItem from="1748795791523" duration="654000" />
+      <workItem from="1748858922161" duration="10265000" />
+      <workItem from="1748871238961" duration="55000" />
+      <workItem from="1748871333345" duration="11000" />
+      <workItem from="1748871350825" duration="35000" />
+      <workItem from="1748871411682" duration="60000" />
+      <workItem from="1748871506125" duration="1051000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
